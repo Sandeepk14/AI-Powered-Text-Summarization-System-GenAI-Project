@@ -16,7 +16,7 @@ An advanced **text summarization model** built using **Hugging Face Transformers
 
 ## **Installation**  
 ```bash
-git clone https://github.com/yourusername/text-summarization.git
+(https://github.com/Sandeepk14/AI-Powered-Text-Summarization-System-GenAI-Project.git)
 cd text-summarization
 pip install -r requirements.txt
 ```
