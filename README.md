@@ -1,8 +1,8 @@
-Here's a concise **GitHub README** for your **AI-Powered Text Summarization System**:  
+# **AI-Powered Text Summarization System** 🚀  
 
 ---
 
-# **AI-Powered Text Summarization System** 🚀  
+
 
 An advanced **text summarization model** built using **Hugging Face Transformers (BART/T5/GPT)** for generating concise summaries from long-form text.  
 
